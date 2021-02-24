@@ -1,4 +1,6 @@
-alert("How to play this game: Randomo color sequence will be generated. you have to remember the sequence and click accordingly")
+alert(` How to play this game: 
+Random color sequence will be generated. 
+you have to remember the sequence and click accordingly`)
 
 var buttonColours = ["red", "blue", "green", "yellow"];
 
